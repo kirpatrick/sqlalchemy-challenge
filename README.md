@@ -39,7 +39,7 @@ Design a Flask API based on the queries created that return a JSON formatted out
 4. 
 
 ## Source
-[SMU DS Boot Camp - SQLAlchemy Challenge](https://smu.bootcampcontent.com/SMU-Coding-Bootcamp/SMU-DAL-DATA-PT-11-2019-U-C/tree/master/02-Homework/10-Advanced-Data-Storage-and-Retrieval/Instructions)
+[SMU DS Boot Camp - SQLAlchemy Challenge](https://techbootcamps.smu.edu/data/)
 
 ## Tech Stack
 

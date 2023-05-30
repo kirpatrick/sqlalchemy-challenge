@@ -1,7 +1,7 @@
 # sqlalchemy-challenge
 Climate Analysis and Exploration
 
-![under_construction](images/under-construction.png)
+![under_construction](Images/under-construction.png)
 
 ### Researcher
 Kirpatrick Dorsey
